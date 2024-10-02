@@ -28,7 +28,7 @@ public class UrlShorteningController
     public UrlShorteningController(UrlService urlService) {
     	this.urlService = urlService;
     }
-    @CrossOrigin(origins = "http://localhost:5173") 
+    @CrossOrigin(origins = "https://shortly-longurl.netlify.app") 
     @PostMapping("/generate")
      // Allow requests from your React frontend
     
