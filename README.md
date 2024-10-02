@@ -148,6 +148,10 @@ The following are planned features and improvements for the URL Shortener projec
 
 - Added a feature where you can directly copy the link to your clipboard 
 ![Screenshot (451)](https://github.com/user-attachments/assets/240ca5b5-488c-407b-afde-9cbcc458f6b9)
+
+## Demo
+
+![demo](https://github.com/user-attachments/assets/01d8a9c9-2332-4f7e-8682-a0c915204582)
 ## Tech Stack
 
 The URL Shortener project is built using the following technologies:
@@ -204,11 +208,14 @@ Programming Language:
 **Git:** A distributed version control system used to manage the source code.
 **GitHub:** A platform for hosting and collaborating on Git repositories.
 
+  
+
 
 ## Live Link 
 - Providing you the live link for the project
     
      https://shortly-longurl.netlify.app/
+  
 
 ## Badges
 
