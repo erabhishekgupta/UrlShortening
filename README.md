@@ -19,6 +19,9 @@ Platform Providers:
 
 - Railway.app: For providing a simple and efficient platform to deploy the backend services.
 - Render.com: For offering a smooth deployment process for the frontend.
+- Guava (com.google.guava): Guava is a set of core libraries developed by Google for Java. It provides a wide range of utilities that 
+ enhance Java's standard library. For Hashing the orginal link
+- Apache Commons (org.apache.commons): Apache Commons is a collection of reusable Java components developed by the Apache Software Foundation. It includes a wide variety of libraries that cater to different aspects of Java development.
 
 Community:
 
